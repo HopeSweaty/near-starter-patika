@@ -29,7 +29,7 @@ near deploy --accountId "yourtestnetusername" --wasmFile build/release/simple.wa
 Test contract:
 
 ```bash
-near view "yourtestnetusername" helloWorld '{"names": ["<Your Name>", "<Friend Name>"]}'
+near call $CONTRACT helloWorld --accountId <YOUR_ACCOUNT>.testnet
 ```
 
 ### Forked from starter--near-sdk-as 
