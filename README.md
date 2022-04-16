@@ -1,5 +1,5 @@
 # `near-sdk-as` Starter Kit for Patika Bootcamp
-
+Switch branch to which you want to deploy your contract.
 ## Setup
 First you need to clone the this repository:
 
